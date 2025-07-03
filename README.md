@@ -11,35 +11,26 @@ Follow these steps carefully to **solve and submit your assignment using your Gi
 - Click the **assignment link** shared via GitHub Classroom.
 - This will automatically create your **private repository** inside the classroom organization.
 
-🖼️ Example Screenshot:  
-![Accept Assignment](https://docs.github.com/assets/images/help/repository/repo-clone-url.png)  <!-- Placeholder Screenshot -->
+
 
 ---
 
 ### 2. Clone Your Repository Locally
 Open **Terminal** or **Git Bash** and run this command:
+Copy the repository link after line **Your assignment repository has been created:**
+execute below command.
 
 ```bash
-git clone https://github.com/CLASSROOM-ORG/YOUR-REPO-NAME.git
+git clone copied-link
 ```
 
-- Replace `CLASSROOM-ORG` with the classroom GitHub org name.
-- Replace `YOUR-REPO-NAME` with your assigned repo name.
-
-🖼️ Example Screenshot:  
-![Clone Repo](https://docs.github.com/assets/images/help/repository/clone-repo-url.png)  <!-- Placeholder Screenshot -->
 
 ---
 
 ### 3. Solve the Assignment Locally
 - Open the folder in your code editor (VS Code, PyCharm, etc.).
-- Solve each question by editing the respective `.py` files inside:
-  - `variables/`
-  - `datatypes/`
-  - `operators/`
+- Solve each question by editing the respective `.py` files inside each folder
 
-🖼️ Example Screenshot:  
-![Edit Code](https://code.visualstudio.com/assets/docs/introvideos/editing.png)  <!-- Placeholder Screenshot -->
 
 ---
 
@@ -68,9 +59,6 @@ Push your local commits back to GitHub:
 ```bash
 git push
 ```
-
-🖼️ Example Screenshot:  
-![Git Push](https://docs.github.com/assets/images/help/repository/push-to-repo.png)  <!-- Placeholder Screenshot -->
 
 ---
 
