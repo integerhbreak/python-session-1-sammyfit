@@ -1,0 +1,5 @@
+# Task:
+# Create a boolean variable and convert it to integer, then print both.
+
+# Your code goes here
+
