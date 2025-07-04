@@ -4,6 +4,10 @@ Welcome to your Python assignment!
 Follow these steps carefully to **solve and submit your assignment using your GitHub account via GitHub Classroom**.
 
 ---
+## The '-----' (number of dashes) represents the missing piece of code. 
+---
+
+---
 
 ## ✅ Submission Steps:
 
