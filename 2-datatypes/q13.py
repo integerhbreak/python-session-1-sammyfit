@@ -3,3 +3,10 @@
 
 # Your code goes here
 
+iNumber = 95
+
+statement = "Your score is "
+
+result = statement + str(iNumber)
+
+print(result)
