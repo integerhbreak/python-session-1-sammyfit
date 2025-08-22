@@ -3,3 +3,6 @@
 
 # Your code goes here
 
+cities = ("Mumbai", "Bangalore", "Pune", "Hyderabad", "Delhi")
+
+print(cities)

@@ -3,3 +3,6 @@
 
 # Your code goes here
 
+cars = {"Fortuner", "Defender", "Safari", "Fortuner"}
+
+print(cars)
