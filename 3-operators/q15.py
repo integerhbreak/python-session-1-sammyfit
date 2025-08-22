@@ -3,3 +3,6 @@
 
 # Your code goes here
 
+bDecision1 = True
+
+print("Inverted using not operator: ",not bDecision1)
